@@ -35,13 +35,13 @@ body {
 }
 
 .modal-content {
-    max-height: 348.64px;
-    width: 699.3px;
+    /* height: 348.64px;
+    width: 699.3px; */
 }
 
-.row {
-    max-height: 348.64px;
-    max-width: 699.3px;
+row {
+    height: 348.64px;
+    width: 699.3px;
     /* padding: 0;
     border: 0;
     margin: 0; */
